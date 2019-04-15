@@ -1,0 +1,28 @@
+LED 1st Floor Up:  24
+LED 2nd Floor Up:  10
+LED 2nd Floor Dn:  08
+LED 3rd Floor Up:  11
+LED 3rd Floor Dn:  023
+LED 4th Floor Dn:  07
+Shaft Motor out 1: 17
+Shaft Motor out 2: 22
+Shaft Motor out 3: 18
+Shaft Motor out 4: 27
+Button 1st Floor:  02
+Button 2nd Floor:  03
+Button 3rd Floor:  04
+Button 4th Floor:  14
+
+3V3   05V
+002   05V
+003   GND
+004   014
+GND   015
+017   018
+027   GND
+022   023
+3V3   024
+010   GND
+009   025
+011   008
+GND   007
